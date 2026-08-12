@@ -59,3 +59,36 @@ CipherBlog takes a developer-first approach:
         ┌────────────┼────────────┐
         │            │            │
        AI       Integrations   Automation
+```
+## 🗺️ Roadmap
+
+### Phase 1 — Foundation
+- Product architecture
+- Modular platform core
+- Identity and access
+- API foundation
+- Database foundation
+- Testing and CI/CD
+
+### Phase 2 — CMS
+- Content management
+- Pages and articles
+- Media
+- Publishing
+- SEO
+
+### Phase 3 — Platform
+- Events
+- Background processing
+- Workflows
+- Real-time capabilities
+- Extensibility
+
+### Phase 4 — Ecosystem
+- Visual website builder
+- Integrations
+- SDKs
+- Plugins
+- AI-assisted capabilities
+
+> Roadmap items are directional and may change as the project evolves.
